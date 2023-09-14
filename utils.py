@@ -1,6 +1,9 @@
-class NumberUtils:
-    
-    def reverse_integer(number):
+class Utils:
+    def reversed(number):
+        """Reverses an integer."""
+        if not isinstance(number, int):
+            raise ValueError("Input must be an integer.")
+
         if number < 0:
             sign = -1
             number = abs(number)
@@ -13,7 +16,11 @@ class NumberUtils:
 
         return reversed_number
 
-    def format_to_binary_and_octal(number):
+    def formatter(number):
+        """Returns a number in base 2 (binary) and base 8 (octal) format."""
+        if not isinstance(number, int):
+            raise ValueError("Input must be an integer.")
+        
         binary_representation = bin(number)
         octal_representation = oct(number)
 
