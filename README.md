@@ -3,4 +3,4 @@
 
 ![image](https://github.com/RohinMarok/ECE444-F2023-Assignment1/assets/106834380/bf3b7df2-d8e1-4b78-9d5f-1b9fed22f7d7)
 
-![image](https://github.com/RohinMarok/ECE444-F2023-Assignment1/assets/106834380/6d708528-e89c-419f-a5fa-c8aa64ebba93)
+![image](https://github.com/RohinMarok/ECE444-F2023-Assignment1/assets/106834380/96ec2327-2f27-43b1-ade5-1491017f2a31)
